@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabeçalho {background-color: rgb(7, 8, 34);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.logo-alura {
+    width: 18%;
+}
+
+.lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.educação-imagem {
+    width: 25%;
+}
+.escola {background-image: linear-gradient(rgb(7, 8, 34),#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0 ;
+}
+
+.div-escola {
+    width: 35%;
+    font-size: 150%;
+}
+
+.título {
+    padding: 24px 0 ;
+}
